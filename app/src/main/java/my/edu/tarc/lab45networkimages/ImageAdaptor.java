@@ -16,8 +16,7 @@ import android.widget.TextView;
 import java.io.ByteArrayOutputStream;
 import java.util.List;
 
-import my.edu.tarc.saveimage.Controller.Model.ImageFile;
-import my.edu.tarc.saveimage.R;
+
 
 /**
  * Created by KweeTeck on 11/1/2017.
