@@ -34,7 +34,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-import my.edu.tarc.saveimage.R;
+
 
 public class CameraActivity extends AppCompatActivity {
     private static final int PICK_IMAGE_REQUEST = 1;
